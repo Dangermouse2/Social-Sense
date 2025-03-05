@@ -138,6 +138,7 @@ public class SocialSense {
         temp.add("awesome");
         temp.add("fantastic");
         temp.add("excellent");
+        temp.add("fantastic");
 
         return temp;
     }
